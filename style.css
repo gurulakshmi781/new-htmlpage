@@ -1,0 +1,12 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    background: linear-gradient(to top,blue,purple);
+    color:white
+}
